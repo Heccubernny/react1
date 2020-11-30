@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
-import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar, Badge, IconButton } from '@material-ui/core';
 import VideoCallIcon from '@material-ui/icons/VideoCall';
 import SearchIcon from '@material-ui/icons/Search';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
 import './Contact.css';
 import ContactRow from './ContactRow/ContactRow';
+
+
 
 class Contact extends Component {
   render() {
@@ -30,8 +32,14 @@ class Contact extends Component {
             </IconButton>
           </div>
         </div>
-        <ContactRow />
+        <ContactRow title="More" />
+        <ContactRow title="More" />
+        <ContactRow title="More" />
+        <ContactRow title="More" />
+
       </div>
+
+      
 
     );
   }

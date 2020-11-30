@@ -1,4 +1,11 @@
-.contact__list{
-        color: red;
-        background-color: blue;
+.ContactRow{
+        display: flex;
+        align-items: center;
+        padding: 10px;
+        cursor: pointer;
+        
+}
+
+.ContactRow > h4{
+        margin-left: 10rem;
 }
