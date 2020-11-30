@@ -32,8 +32,8 @@ class Contact extends Component {
             </IconButton>
           </div>
         </div>
-        <ContactRow title="More" />
-        <ContactRow title="More" />
+        <ContactRow title="Ikubanni Paul" />
+        <ContactRow title="Zephaniah Joshua" />
         <ContactRow title="More" />
         <ContactRow title="More" />
 

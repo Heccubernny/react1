@@ -4,8 +4,11 @@
         padding: 10px;
         cursor: pointer;
         
+        
 }
-
+ .MuiAvatar-root{
+        margin-right: 0.5rem;
+}
 .ContactRow > h4{
-        margin-left: 10rem;
+        font-size: 18px;
 }
