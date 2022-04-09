@@ -32,10 +32,10 @@ class Contact extends Component {
             </IconButton>
           </div>
         </div>
-        <ContactRow title="Ikubanni Paul" />
-        <ContactRow title="Zephaniah Joshua" />
-        <ContactRow title="More" />
-        <ContactRow title="More" />
+        <ContactRow title="Ronaldo" />
+        <ContactRow title="Mbappe" />
+        <ContactRow title="Haaland" />
+        <ContactRow title="Neymar" />
 
       </div>
 
