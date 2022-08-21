@@ -3,8 +3,10 @@
 "# react1" 
  
  
- #To use. 
- git clone https://github.com/Heccubernny/react1.git
- cd react1
- npm install
- npm run start
+ <h1>To use.</h1>
+
+<p> git clone https://github.com/Heccubernny/react1.git</p>
+ <p>cd react1</p>
+ <p>npm install</p>
+ <p>npm run start</p>
+```
